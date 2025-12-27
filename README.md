@@ -31,20 +31,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sde-gaurav&theme=algolia&margin-w=8)</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sde-gaurav&show_icons=true&theme=tokyonight&cache_seconds=86400)
-![GitHub Streak](https://streak-stats.demolab.com?user=sde-gaurav&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sde-gaurav&layout=compact&theme=tokyonight)
-</p>
-
----
-
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sde-gaurav&theme=tokyonight&hide_border=false" />
