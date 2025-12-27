@@ -16,14 +16,9 @@
 ---
 
 ### 💼 Professional Experience
-- **Full Stack Developer – Poliarc Services Pvt. Ltd. (July 2025 – Present)**  
-  Building multi-tenant election management platforms with RBAC, Redux Toolkit authentication, JWT-secured APIs, real-time chat (Socket.IO), and MySQL-backed systems.
-
-- **Freelance Full Stack Developer (Nov 2024 – Jun 2025)**  
-  Delivered production-ready platforms including Temple Booking & Skilltech systems with payments, dashboards, RBAC, and secure backend APIs.
-
-- **MERN Stack Developer – CITC The Hub of IT Pvt. Ltd. (Aug 2023 – Oct 2024)**  
-  Built scalable admin panels, optimized MySQL performance, and developed high-performance Next.js applications.
+• Full Stack Developer – Poliarc Services Pvt. Ltd.  
+• Freelance Full Stack Developer  
+• MERN Stack Developer – CITC The Hub of IT Pvt. Ltd.
 
 ---
 
@@ -37,17 +32,15 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sde-gaurav&theme=algolia&no-frame=true&no-bg=false&margin-w=4" />
-</p>
+<p align="center">![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sde-gaurav&theme=algolia&margin-w=8)</p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sde-gaurav&show_icons=true&theme=tokyonight&hide=issues&hide_border=false" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sde-gaurav&theme=tokyonight&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sde-gaurav&layout=compact&theme=tokyonight&hide_border=false" height="150"/>
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sde-gaurav&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=sde-gaurav&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sde-gaurav&layout=compact&theme=tokyonight)
 </p>
 
 ---
