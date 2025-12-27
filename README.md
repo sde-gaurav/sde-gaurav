@@ -1,16 +1,38 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <p align="center">
-  🚀 Software Developer | Freelancer | Tech Enthusiast<br/>
-  💻 1+ years of experience in Web Development<br/>
-  🏢 Currently at Gridverse Innovations (P) Ltd.
+  🚀 Full Stack Developer (MERN / Next.js)<br/>
+  💻 2+ Years of Professional Experience<br/>
+  🏢 Full Stack Developer at Poliarc Services Pvt. Ltd.<br/>
+  📍 New Delhi, India
 </p>
 
 ---
 
 ### 🚀 Tech Stack & Tools
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,tailwind,html,css,js,ts,figma,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,redux,tailwind,bootstrap,html,css,js,ts,mysql,mongodb,aws,docker,git,github,postman,figma,vscode" />
 </p>
+
+---
+
+### 💼 Professional Experience
+- **Full Stack Developer – Poliarc Services Pvt. Ltd. (July 2025 – Present)**  
+  Building multi-tenant election management platforms with RBAC, Redux Toolkit authentication, JWT-secured APIs, real-time chat (Socket.IO), and MySQL-backed systems.
+
+- **Freelance Full Stack Developer (Nov 2024 – Jun 2025)**  
+  Delivered production-ready platforms including Temple Booking & Skilltech systems with payments, dashboards, RBAC, and secure backend APIs.
+
+- **MERN Stack Developer – CITC The Hub of IT Pvt. Ltd. (Aug 2023 – Oct 2024)**  
+  Built scalable admin panels, optimized MySQL performance, and developed high-performance Next.js applications.
+
+---
+
+### 🧠 Core Skills
+- **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, Socket.IO  
+- **Databases:** MySQL, MongoDB  
+- **Cloud & DevOps:** AWS (EC2, S3, IAM), Docker, PM2, Cloudinary, MilesWeb  
+- **Tools:** Git, GitHub, Postman, VS Code, Figma, Jira
 
 ---
 
