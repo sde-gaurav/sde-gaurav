@@ -16,8 +16,8 @@
 ---
 
 ### 💼 Professional Experience
-• MERN Stack Developer – Wayone IT Solution Pvt. Ltd.
-• Full Stack Developer – Poliarc Services Pvt. Ltd.   
+• MERN Stack Developer – Wayone IT Solution Pvt. Ltd.<br>
+• Full Stack Developer – Poliarc Services Pvt. Ltd.<br>
 • MERN Stack Developer – CITC The Hub of IT Pvt. Ltd.
 
 ---
