@@ -2,7 +2,7 @@
 <p align="center">
   🚀 Full Stack Developer (MERN / Next.js)<br/>
   💻 2+ Years of Professional Experience<br/>
-  🏢 Full Stack Developer at Poliarc Services Pvt. Ltd.<br/>
+  🏢 MERN Stack Developer at Wayone IT Solution Pvt. Ltd.<br/>
   📍 New Delhi, India
 </p>
 
@@ -16,8 +16,8 @@
 ---
 
 ### 💼 Professional Experience
-• Full Stack Developer – Poliarc Services Pvt. Ltd.  
-• Freelance Full Stack Developer  
+• MERN Stack Developer – Wayone IT Solution Pvt. Ltd.
+• Full Stack Developer – Poliarc Services Pvt. Ltd.   
 • MERN Stack Developer – CITC The Hub of IT Pvt. Ltd.
 
 ---
