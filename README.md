@@ -16,7 +16,7 @@
 ---
 
 ### 💼 Professional Experience
-• MERN Stack Developer – Axepert Exhibits Pvt. Ltd.<br>
+• Backend Developer – Axepert Exhibits Pvt. Ltd.<br>
 • MERN Stack Developer – Wayone IT Solution Pvt. Ltd.<br>
 • Full Stack Developer – Poliarc Services Pvt. Ltd.<br>
 • MERN Stack Developer – CITC The Hub of IT Pvt. Ltd.
