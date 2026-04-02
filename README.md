@@ -2,7 +2,7 @@
 <p align="center">
   🚀 Full Stack Developer (MERN / Next.js)<br/>
   💻 2+ Years of Professional Experience<br/>
-  🏢 MERN Stack Developer at Wayone IT Solution Pvt. Ltd.<br/>
+  🏢 MERN Stack Developer at Axepert Exhibits Pvt. Ltd.<br/>
   📍 New Delhi, India
 </p>
 
@@ -16,6 +16,7 @@
 ---
 
 ### 💼 Professional Experience
+• MERN Stack Developer – Axepert Exhibits Pvt. Ltd.<br>
 • MERN Stack Developer – Wayone IT Solution Pvt. Ltd.<br>
 • Full Stack Developer – Poliarc Services Pvt. Ltd.<br>
 • MERN Stack Developer – CITC The Hub of IT Pvt. Ltd.
