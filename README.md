@@ -83,7 +83,7 @@ open_to    : Full-time roles & freelance projects
 | **Frontend** | React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap |
 | **Backend** | Node.js, Express.js, REST APIs, JWT Authentication, Socket.IO |
 | **Databases** | MySQL, MongoDB |
-| **Cloud & DevOps** | AWS (EC2, S3, IAM), Docker, PM2, Nginx, Cloudinary |
+| **Cloud & DevOps** | AWS (EC2, S3, IAM), CloudFront, Docker, PM2, Nginx, Cloudinary |
 | **Tools** | Git, GitHub, Postman, VS Code, Figma, Jira |
 
 ---
